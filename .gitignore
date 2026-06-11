@@ -1,2 +1,5 @@
-no-commit/
+.env
 node_modules/
+__pycache__/
+*.pyc
+dist/
